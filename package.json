@@ -1,0 +1,29 @@
+{
+  "name": "angular-html-brunch",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aobyrne/angular-html-brunch.git"
+  },
+  "main": "lib/index",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "scripts": {
+    "postinstall": "coffee -c -o lib src"
+  },
+  "dependencies": {
+    "coffee-script": "~1.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/aobyrne/angular-html-brunch/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "homepage": "https://github.com/aobyrne/angular-html-brunch",
+  "_id": "angular-html-brunch@0.0.1",
+  "dist": {
+    "shasum": "b6c3bfb47b1b0304c6ae1080134c9346a65c3579"
+  },
+  "_resolved": "git://github.com/aobyrne/angular-html-brunch.git#b0fcef8a9b560f847776f31ee23e845c10c4d915",
+  "_from": "angular-html-brunch@git://github.com/aobyrne/angular-html-brunch.git#b0fcef8a9b560f847776f31ee23e845c10c4d915"
+}
